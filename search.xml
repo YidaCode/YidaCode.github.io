@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2021 01 29</title>
+    <url>/2021/01/29/2021-01-29/</url>
+    <content><![CDATA[<h1 id="英语学习"><a href="#英语学习" class="headerlink" title="英语学习"></a>英语学习</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
+<li>deplore dispatch detective decriminate despoil </li>
+<li>heed nourish refurbish ingredient confine </li>
+<li>expedition expend<blockquote>
+<p>dispatch   : send to a particular destination<br><br>heed       : pay attention to <br><br>cofine     : pervent it from <br><br>expedition : organized journey that is made for a particular purpose<br><br>verbiage   : too many words to make speech difficult to understand <br><br>frugal     : not expensive<br><br>assassinate: murder as a political act<br><br>ambivalent : uncertain <br><br>conspicuous: can be noticed easily<br><br>contender  : someone who takes part in a competition<br><br>picturesque: attractive<br><br>rug        : carpet covers a smaller area<br><br>collaborate: work together<br><br>satiric    : ironic<br></p>
+</blockquote>
+<h2 id="TuesMagique"><a href="#TuesMagique" class="headerlink" title="TuesMagique"></a><a class="link" href="https://mp.weixin.qq.com/s/uOfyMKkXPaAGfMxo3KzzYg">TuesMagique<i class="fas fa-external-link-alt"></i></a></h2><blockquote>
+<p><a class="link" href="https://soyummy.com/tummy-hurt-eating-onions-garlic-why/">Does Your tummy ever hurt after eating onions and garlic?This is the sad reason why.<i class="fas fa-external-link-alt"></i></a><br><br>cramp: a painful and involuntary muscular contraction; spasm,muscle spasm <br><br>nausea: sickness<br><br>hallucination：illusoryperception; a common symptom of severe mental disorder<br><br>topical:pertaining to the surface of a body part<br><br>葱姜蒜过敏，文章过难，我人无</p>
+</blockquote>
+<h1 id="吉他"><a href="#吉他" class="headerlink" title="吉他"></a>吉他</h1><h2 id="乐理基础"><a href="#乐理基础" class="headerlink" title="乐理基础"></a>乐理基础</h2>频率/唱名/音名/全全半 全全全半/本位音/高音 倍高音 倍倍高音/标准调弦：e2 b1 g1 d1 a e<br><br>B站收藏了一些基础练习<h1 id="技术好文-电源向"><a href="#技术好文-电源向" class="headerlink" title="技术好文 电源向"></a>技术好文 电源向</h1>最近画PCB的时候刚接触电源这方面的知识，mark一下。<h2 id="电源保护基础电路（基于PMOS）"><a href="#电源保护基础电路（基于PMOS）" class="headerlink" title="电源保护基础电路（基于PMOS）"></a><a class="link" href="https://www.youtube.com/watch?v=IrB-FPcv1Dc">电源保护基础电路（基于PMOS）<i class="fas fa-external-link-alt"></i></a></h2>防止电源反接-&gt;二极管 <br><br>存在问题：正向存在压降，存在功耗。<br><br>解决办法：使用肖特基二极管，但是仍然存在功耗消耗。<br><br>解决办法：PMOS的Vgs&lt;0的时导通，&gt;0时截止。且Rds_on很小，功耗很低。<br><br>具体电路：<img src="/2021/01/29/2021-01-29/pmos.png" alt="PMOS电路"><br><h2 id="LDO和DCDC的一些区别"><a href="#LDO和DCDC的一些区别" class="headerlink" title="LDO和DCDC的一些区别"></a>LDO和DCDC的一些区别</h2>LDO：low dropout regulator，低压差线性稳压器。<br><br>DC-DC主要由buck（降压），boost（升压），buck-boost（升降压）三种构成。<br><br>LDO问题1：效率低，大约等于输出电压比输入电压，所以当输出电压和输入电压相差较大时，效率低且功耗大。<br><br>LDO问题2：最大输出电流只有几百mA，而DCDC最大输出电流有几A甚至更大。<br><br>LDO优点1：DC/DC工作在开关状态导致其纹波/噪声要比LDO差，所以在设计时比较敏感的电路尽量选择LDO供电。<br><br>LDO优点2：LDO相对DCDC成本要低，外围电路要简单。<br></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>技术好文分享</tag>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>写在开始</title>
     <url>/2021/01/29/init/</url>
     <content><![CDATA[<h1 id="TAGS"><a href="#TAGS" class="headerlink" title="- TAGS"></a>- TAGS</h1><h2 id="每日打卡"><a href="#每日打卡" class="headerlink" title="每日打卡"></a>每日打卡</h2><ul>
