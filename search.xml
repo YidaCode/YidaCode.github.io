@@ -77,4 +77,34 @@
         <tag>每日打卡</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2021 02 02</title>
+    <url>/2021/02/02/2021-02-02/</url>
+    <content><![CDATA[<h1 id="英语学习"><a href="#英语学习" class="headerlink" title="英语学习"></a>英语学习</h1><h2 id="扇贝"><a href="#扇贝" class="headerlink" title="扇贝"></a>扇贝</h2><p><strong>exception</strong>: particular.|<strong>expect</strong>: believe it will happen.<br><br><strong>splash</strong>: play water.<br><br><strong>vow</strong>: promise.<br><br><strong>creep</strong>: move quietly and slowly.<br><br><strong>swindle</strong>: deceive.<br><br><strong>heed</strong>: pay attention to.<br><br><strong>devise</strong>: have the idea or design a plan,system,or machine.|<strong>device</strong>: equipment.<br><br><strong>dispel</strong>: to dispel an idea that people have means to stop them having it.<br><br><strong>interfere</strong>: get involved in.<br><br><strong>tame</strong>: a tame animal or bird is one that is not afraid of humans.<br><br><strong>nomadic</strong>: travel from place to place.<br><br><strong>prelude</strong>: start.<br><br><strong>erratic</strong>：uncertain.<br><br><strong>consent</strong>: permission.<br><br><strong>synonym</strong>: -antonym.<br><br><strong>brighten</strong>: suddenly look happier./interested or excited.<br><br><strong>millennium</strong>: the Millennium.<br><br><strong>cradle</strong>: a frame supports or protects something.<br><br><strong>replica</strong>: copy.<br><br><strong>quotient</strong>: degree.<br><br><strong>discern</strong>: be aware of sth.<br><br><strong>spike</strong>: long piece of metal with a sharp point.<br><br><strong>entrepreneur</strong>: businesses man.<br><br><strong>scorch</strong>: burn it slightly.|<strong>torch</strong>: huoju.<br><br><strong>bluster</strong>: speaking aggressively but without authority.<br><br><strong>connote</strong>: makes you think of a particular idea.<br><br><strong>upsurge</strong>: up surge.<br><br><strong>meditate</strong>: think about sth carefully and deeply for a long time.<br></p>
+<h2 id="TuesMagique"><a href="#TuesMagique" class="headerlink" title="TuesMagique"></a>TuesMagique</h2><blockquote>
+<p><a class="link" href="https://www.economist.com/britain/2020/01/09/the-coming-splurge-on-northern-infrastructure">The coming splurge on northern infrastructure<i class="fas fa-external-link-alt"></i></a></p>
+</blockquote>
+<ul>
+<li>coming splurge 很酷的表达<br></li>
+<li>One even got the go-ahead in 2009 only to be put on hold again a year later.|<strong>only-&gt;but</strong></li>
+<li>Under the fiscal rules the Tories proposed to adopt during the election campaign, public-sector capital spending is due to rise from just over 2% of gdp to 3%.|<strong>adpot</strong>,<strong>capital</strong></li>
+<li>That amounts to<br><br>分成两天读吧 太难了555<br>复习比学习更加重要<h2 id="白嫖流利说"><a href="#白嫖流利说" class="headerlink" title="白嫖流利说"></a>白嫖流利说</h2>scarce: not enough.<br><br>shatter: make sth suddenly break into small pieces.</li>
+</ul>
+<h1 id="吉他"><a href="#吉他" class="headerlink" title="吉他"></a>吉他</h1><p>和弦：大三、小三、增三、减三和弦；七和弦、九和弦。</p>
+<h1 id="AcWing"><a href="#AcWing" class="headerlink" title="AcWing"></a>AcWing</h1><p>终于准备重拾AcWing了哈哈哈哈</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">cout</span> &lt;&lt; <span class="string">&quot;Heelo World&quot;</span>&lt;&lt; <span class="built_in">endl</span>;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>两个重要的头文件：cstdio iostream</li>
+<li><strong>cstdio</strong>:scanf/printf | <strong>iostream</strong>:cin/cout <br></li>
+<li>namespace:命名空间<br></li>
+<li>程序入口 return 0<br></li>
+<li>变量:bool-1byte char-1byte int-4byte float-4byte double-8byte<br></li>
+<li>科学计数法float a = 1.235e2.<br></li>
+<li>longlong 后面要加LL.</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
 </search>
