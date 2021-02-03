@@ -4,7 +4,7 @@
     <title>写在开始</title>
     <url>/2021/01/29/init/</url>
     <content><![CDATA[<h1 id="TAGS"><a href="#TAGS" class="headerlink" title="- TAGS"></a>- TAGS</h1><h2 id="每日打卡"><a href="#每日打卡" class="headerlink" title="每日打卡"></a>每日打卡</h2><ul>
-<li>英语：扇贝单词/TuesMagique经济学人精讲</li>
+<li>英语：扇贝单词/TuesMagique经济学人精讲/白嫖流利说</li>
 <li>音乐：果木浪子吉他教程</li>
 <li>所学/所想/所悟</li>
 </ul>
@@ -103,6 +103,32 @@
 <li>longlong 后面要加LL.</li>
 </ul>
 ]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021 02 03</title>
+    <url>/2021/02/03/2021-02-03/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><p><strong>bloc</strong>: group of countries which have similar political aims and interests.<br><br><strong>astonishment</strong>: feeling of great surprise.<br><br><strong>aisle</strong>: long narrow gap that people can walk along.| /aIl/<br><br><strong>cotton</strong>: cotton cloth.|cartoon<br><br><strong>hook</strong>: used for catching or holding things.<br><br><strong>patronage</strong>: sponsor.<br><br><strong>insanity</strong>: insane - ity. foolish.<br><br><strong>bride</strong>: woman who is getting married.<br></p>
+<h2 id="TuesMagique"><a href="#TuesMagique" class="headerlink" title="TuesMagique"></a>TuesMagique</h2><blockquote>
+<p><a class="link" href="https://www.economist.com/britain/2020/01/09/the-coming-splurge-on-northern-infrastructure">The coming splurge on northern infrastructure<i class="fas fa-external-link-alt"></i></a><br></p>
+</blockquote>
+<ul>
+<li>长难句 because it underplays the potential of big projects to boost the economy of the areas that benefit from them. </li>
+<li>soft money,hard hats.<h2 id="白嫖流利说"><a href="#白嫖流利说" class="headerlink" title="白嫖流利说"></a>白嫖流利说</h2><blockquote>
+<p>From macaques to crabs, wildlife faces threat from face masks</p>
+</blockquote>
+</li>
+<li>hazard: a source of danger</li>
+<li>marine: connected with the sea and the creatures and plants that live there</li>
+<li>ensnare: (formal) to make sb / sth unable to escape from a difficult situation or from a person who wants to control them</li>
+<li>mandate:  the authority to do sth, given to a government or other organization by the people who vote for it in an election</li>
+</ul>
+<h1 id="吉他"><a href="#吉他" class="headerlink" title="吉他"></a>吉他</h1><p>多音和弦 挂留和弦 复合/添加和弦 和弦倾向性 调与调式<br><br>乐理确实不太适合我这种粗人QAQ</p>
+<h1 id="AcWing"><a href="#AcWing" class="headerlink" title="AcWing"></a>AcWing</h1><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cstdio&gt;   // scanf printf %d %f %c(会读入空格) %lf %lld</span></span></span><br><span class="line"><span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>,&amp;a) <span class="built_in">printf</span>(<span class="string">&quot;%d,a)</span></span><br><span class="line"><span class="string">#include &lt;iostream&gt; // cin cout -&gt;效率低</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">++a a++</span><br><span class="line">c = a++;</span><br><span class="line">d = ++a;</span><br><span class="line">c是原来的值 d加了</span><br></pre></td></tr></table></figure>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">强制类型转化 显式/隐式</span><br><span class="line"><span class="keyword">float</span> b = (<span class="keyword">float</span>) a </span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>每日打卡</tag>
       </tags>
