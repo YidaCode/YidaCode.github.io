@@ -61,32 +61,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2021 02 03</title>
-    <url>/2021/02/03/2021-02-03/</url>
-    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><p><strong>bloc</strong>: group of countries which have similar political aims and interests.<br><br><strong>astonishment</strong>: feeling of great surprise.<br><br><strong>aisle</strong>: long narrow gap that people can walk along.| /aIl/<br><br><strong>cotton</strong>: cotton cloth.|cartoon<br><br><strong>hook</strong>: used for catching or holding things.<br><br><strong>patronage</strong>: sponsor.<br><br><strong>insanity</strong>: insane - ity. foolish.<br><br><strong>bride</strong>: woman who is getting married.<br></p>
-<h2 id="TuesMagique"><a href="#TuesMagique" class="headerlink" title="TuesMagique"></a>TuesMagique</h2><blockquote>
-<p><a class="link" href="https://www.economist.com/britain/2020/01/09/the-coming-splurge-on-northern-infrastructure">The coming splurge on northern infrastructure<i class="fas fa-external-link-alt"></i></a><br></p>
-</blockquote>
-<ul>
-<li>长难句 because it underplays the potential of big projects to boost the economy of the areas that benefit from them. </li>
-<li>soft money,hard hats.<h2 id="白嫖流利说"><a href="#白嫖流利说" class="headerlink" title="白嫖流利说"></a>白嫖流利说</h2><blockquote>
-<p>From macaques to crabs, wildlife faces threat from face masks</p>
-</blockquote>
-</li>
-<li>hazard: a source of danger</li>
-<li>marine: connected with the sea and the creatures and plants that live there</li>
-<li>ensnare: (formal) to make sb / sth unable to escape from a difficult situation or from a person who wants to control them</li>
-<li>mandate:  the authority to do sth, given to a government or other organization by the people who vote for it in an election</li>
-</ul>
-<h1 id="吉他"><a href="#吉他" class="headerlink" title="吉他"></a>吉他</h1><p>多音和弦 挂留和弦 复合/添加和弦 和弦倾向性 调与调式<br><br>乐理确实不太适合我这种粗人QAQ</p>
-<h1 id="AcWing"><a href="#AcWing" class="headerlink" title="AcWing"></a>AcWing</h1><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cstdio&gt;   // scanf printf %d %f %c(会读入空格) %lf %lld</span></span></span><br><span class="line"><span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>,&amp;a) <span class="built_in">printf</span>(<span class="string">&quot;%d,a)</span></span><br><span class="line"><span class="string">#include &lt;iostream&gt; // cin cout -&gt;效率低</span></span><br></pre></td></tr></table></figure>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">++a a++</span><br><span class="line">c = a++;</span><br><span class="line">d = ++a;</span><br><span class="line">c是原来的值 d加了</span><br></pre></td></tr></table></figure>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">强制类型转化 显式/隐式</span><br><span class="line"><span class="keyword">float</span> b = (<span class="keyword">float</span>) a </span><br></pre></td></tr></table></figure>]]></content>
-      <tags>
-        <tag>每日打卡</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2021 02 02</title>
     <url>/2021/02/02/2021-02-02/</url>
     <content><![CDATA[<h1 id="英语学习"><a href="#英语学习" class="headerlink" title="英语学习"></a>英语学习</h1><h2 id="扇贝"><a href="#扇贝" class="headerlink" title="扇贝"></a>扇贝</h2><p><strong>exception</strong>: particular.|<strong>expect</strong>: believe it will happen.<br><br><strong>splash</strong>: play water.<br><br><strong>vow</strong>: promise.<br><br><strong>creep</strong>: move quietly and slowly.<br><br><strong>swindle</strong>: deceive.<br><br><strong>heed</strong>: pay attention to.<br><br><strong>devise</strong>: have the idea or design a plan,system,or machine.|<strong>device</strong>: equipment.<br><br><strong>dispel</strong>: to dispel an idea that people have means to stop them having it.<br><br><strong>interfere</strong>: get involved in.<br><br><strong>tame</strong>: a tame animal or bird is one that is not afraid of humans.<br><br><strong>nomadic</strong>: travel from place to place.<br><br><strong>prelude</strong>: start.<br><br><strong>erratic</strong>：uncertain.<br><br><strong>consent</strong>: permission.<br><br><strong>synonym</strong>: -antonym.<br><br><strong>brighten</strong>: suddenly look happier./interested or excited.<br><br><strong>millennium</strong>: the Millennium.<br><br><strong>cradle</strong>: a frame supports or protects something.<br><br><strong>replica</strong>: copy.<br><br><strong>quotient</strong>: degree.<br><br><strong>discern</strong>: be aware of sth.<br><br><strong>spike</strong>: long piece of metal with a sharp point.<br><br><strong>entrepreneur</strong>: businesses man.<br><br><strong>scorch</strong>: burn it slightly.|<strong>torch</strong>: huoju.<br><br><strong>bluster</strong>: speaking aggressively but without authority.<br><br><strong>connote</strong>: makes you think of a particular idea.<br><br><strong>upsurge</strong>: up surge.<br><br><strong>meditate</strong>: think about sth carefully and deeply for a long time.<br></p>
@@ -112,6 +86,32 @@
 <li>longlong 后面要加LL.</li>
 </ul>
 ]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021 02 03</title>
+    <url>/2021/02/03/2021-02-03/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><p><strong>bloc</strong>: group of countries which have similar political aims and interests.<br><br><strong>astonishment</strong>: feeling of great surprise.<br><br><strong>aisle</strong>: long narrow gap that people can walk along.| /aIl/<br><br><strong>cotton</strong>: cotton cloth.|cartoon<br><br><strong>hook</strong>: used for catching or holding things.<br><br><strong>patronage</strong>: sponsor.<br><br><strong>insanity</strong>: insane - ity. foolish.<br><br><strong>bride</strong>: woman who is getting married.<br></p>
+<h2 id="TuesMagique"><a href="#TuesMagique" class="headerlink" title="TuesMagique"></a>TuesMagique</h2><blockquote>
+<p><a class="link" href="https://www.economist.com/britain/2020/01/09/the-coming-splurge-on-northern-infrastructure">The coming splurge on northern infrastructure<i class="fas fa-external-link-alt"></i></a><br></p>
+</blockquote>
+<ul>
+<li>长难句 because it underplays the potential of big projects to boost the economy of the areas that benefit from them. </li>
+<li>soft money,hard hats.<h2 id="白嫖流利说"><a href="#白嫖流利说" class="headerlink" title="白嫖流利说"></a>白嫖流利说</h2><blockquote>
+<p>From macaques to crabs, wildlife faces threat from face masks</p>
+</blockquote>
+</li>
+<li>hazard: a source of danger</li>
+<li>marine: connected with the sea and the creatures and plants that live there</li>
+<li>ensnare: (formal) to make sb / sth unable to escape from a difficult situation or from a person who wants to control them</li>
+<li>mandate:  the authority to do sth, given to a government or other organization by the people who vote for it in an election</li>
+</ul>
+<h1 id="吉他"><a href="#吉他" class="headerlink" title="吉他"></a>吉他</h1><p>多音和弦 挂留和弦 复合/添加和弦 和弦倾向性 调与调式<br><br>乐理确实不太适合我这种粗人QAQ</p>
+<h1 id="AcWing"><a href="#AcWing" class="headerlink" title="AcWing"></a>AcWing</h1><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;cstdio&gt;   // scanf printf %d %f %c(会读入空格) %lf %lld</span></span></span><br><span class="line"><span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>,&amp;a) <span class="built_in">printf</span>(<span class="string">&quot;%d,a)</span></span><br><span class="line"><span class="string">#include &lt;iostream&gt; // cin cout -&gt;效率低</span></span><br></pre></td></tr></table></figure>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">++a a++</span><br><span class="line">c = a++;</span><br><span class="line">d = ++a;</span><br><span class="line">c是原来的值 d加了</span><br></pre></td></tr></table></figure>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">强制类型转化 显式/隐式</span><br><span class="line"><span class="keyword">float</span> b = (<span class="keyword">float</span>) a </span><br></pre></td></tr></table></figure>]]></content>
       <tags>
         <tag>每日打卡</tag>
       </tags>
@@ -207,6 +207,19 @@
       </tags>
   </entry>
   <entry>
+    <title>2021 02 10</title>
+    <url>/2021/02/10/2021-02-10/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><p><strong>conceal</strong>: cover or hide carefully.<br><br><strong>civilize</strong>: educate and imporove one’s way of life.<br><br><strong>solemnity</strong>: solemn + ity.<br><br><strong>parcel</strong>: a quantity of something.<br><br><strong>peel</strong>: fruit’s skin.<br><br><strong>amusement</strong>: funny and amusing.<br><br><strong>pledge</strong>: promise.<br><br><strong>sailing</strong>: sport of sailing boats.<br><br><strong>flame</strong>: hot bright stream of burning gas.<br><br><strong>adverse</strong>: unfavourable.<br></p>
+<h2 id="白嫖流利说"><a href="#白嫖流利说" class="headerlink" title="白嫖流利说"></a>白嫖流利说</h2><blockquote>
+<p>‘Touching fish’craze sees China’s youth find ways to laze amid ‘996’work culture.<br>年轻人的摸鱼文化 讲解好极了哈哈 我啥也不想记</p>
+</blockquote>
+<h1 id="acwing"><a href="#acwing" class="headerlink" title="acwing"></a>acwing</h1><p>基础要重新捡起来，刷题还是不错的哈哈。</p>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2021 02 09</title>
     <url>/2021/02/09/2021-02-09/</url>
     <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><p>theme: the subject of a talk, a piece of writing, a person’s thoughts, or an exhibition.<br><br>flour: a powder obtained by grinding grain, typically wheat, and used to make bread, cakes, and pastry.<br><br>cabinet: cupboard used for storing things such as medicine./a group of the most senior ministers.<br><br>diplomatic: relating to diplomacy and diplomats.<br><br>solemnity: solemn-formal and dignified.<br><br>forth: goes forth - leave.<br><br>salmon: a kind of fish.<br><br>quarrel: angry argunment.<br><br>panoramic: see a long way over a wide area.<br><br>grope: try to find sth.<br><br>conceal: cover or hide.|cancel.<br><br>connotation: connotate - tion.<br><br>diffuse: made known over a wide area.<br><br>endure: experience and not give up.<br></p>
@@ -225,29 +238,8 @@
       </tags>
   </entry>
   <entry>
-    <title>2021 02 10</title>
-    <url>/2021/02/10/2021-02-10/</url>
-    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><p><strong>conceal</strong>: cover or hide carefully.<br><br><strong>civilize</strong>: educate and imporove one’s way of life.<br><br><strong>solemnity</strong>: solemn + ity.<br><br><strong>parcel</strong>: a quantity of something.<br><br><strong>peel</strong>: fruit’s skin.<br><br><strong>amusement</strong>: funny and amusing.<br><br><strong>pledge</strong>: promise.<br><br><strong>sailing</strong>: sport of sailing boats.<br><br><strong>flame</strong>: hot bright stream of burning gas.<br><br><strong>adverse</strong>: unfavourable.<br></p>
-<h2 id="白嫖流利说"><a href="#白嫖流利说" class="headerlink" title="白嫖流利说"></a>白嫖流利说</h2><blockquote>
-<p>‘Touching fish’craze sees China’s youth find ways to laze amid ‘996’work culture.<br>年轻人的摸鱼文化 讲解好极了哈哈 我啥也不想记</p>
-</blockquote>
-<h1 id="acwing"><a href="#acwing" class="headerlink" title="acwing"></a>acwing</h1><p>基础要重新捡起来，刷题还是不错的哈哈。</p>
-]]></content>
-      <tags>
-        <tag>每日打卡</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>2021 02 11</title>
     <url>/2021/02/11/2021-02-11/</url>
-    <content><![CDATA[<h1 id="放假"><a href="#放假" class="headerlink" title="放假"></a>放假</h1>]]></content>
-      <tags>
-        <tag>每日打卡</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2021 02 13</title>
-    <url>/2021/02/13/2021-02-13/</url>
     <content><![CDATA[<h1 id="放假"><a href="#放假" class="headerlink" title="放假"></a>放假</h1>]]></content>
       <tags>
         <tag>每日打卡</tag>
@@ -262,21 +254,9 @@
       </tags>
   </entry>
   <entry>
-    <title>2021 02 14</title>
-    <url>/2021/02/14/2021-02-14/</url>
-    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><p><strong>sovereignity</strong>: 国家主权/自治统治权|reign: hold royal office; rule as king or queen;<br><br><strong>glorious</strong>: very beautiful and impressive;<br><br><strong>sparingly</strong>: sparing - ly;<br><br><strong>ditch</strong>: 1.noun a narrow channel dug in the ground;2.verb informal get rid of or give up;3.verb bring (an aircraft) down on water in an emergency;<br><br><strong>greasy</strong>: grease - sy.<br><br><strong>liberate</strong>: free them from the political or military control;<br><br><strong>invariably</strong>: variable - invariable - ly;<br><br><strong>recite</strong>: 背诵;大声说出;<br><br><strong>manifestation</strong>: 表现/体现;<br><br><strong>forestry</strong>: forest - ry;<br><br><strong>oddity</strong>: 怪人/怪事;<br><br><strong>harassment</strong>: 骚扰/烦扰;<br><br><strong>fertilizer</strong>: 肥料/化肥;<br><br><strong>streamline</strong>: make more efficient.<br><br><strong>faint</strong>: 虚弱的;敷衍的;<br><br><strong>canal</strong>: 运河;<br><br><strong>tidy</strong>: 整洁的;有条理的;<br><br><strong>waive</strong>: 放弃(合法权利);免除;<br><br><strong>toxic</strong>: poisonous.<br><br><strong>metro</strong>: 地铁;<br><br><strong>slump</strong>: falls suddenly and by a large amount.<br><br><strong>foremost</strong>: 最重要的;最好的;<br><br><strong>paradoxical</strong>: 自相矛盾的;<br><br><strong>barge</strong>: 驳船;硬闯;<br><br><strong>buddhist</strong>: 佛教;<br><br><strong>fixation</strong>: 迷恋;<br><br><strong>suburban</strong>: 郊区的;平淡乏味的;<br><br><strong>plot</strong>: 阴谋;<br><br><strong>grocer</strong>: 杂货店;<br><br><strong>evacuate</strong>: 疏散;<br><br><strong>doll</strong>: 玩偶;<br><br><strong>tenant</strong>: 租客;<br><br><strong>sergeant</strong>: 中士;<br><br><strong>legislative</strong>: 立法的;<br><br><strong>dusty</strong>: 满是尘土的;<br><br><strong>hose</strong>: 水管;<br><br><strong>remedy</strong>: 解决办法;<br></p>
-<h2 id="外刊阅读"><a href="#外刊阅读" class="headerlink" title="外刊阅读"></a>外刊阅读</h2><p>花了一块钱买了流利说阅读一周体验 发现和金老师给我的完全不一样…<br></p>
-<blockquote>
-<p>A Lunar New Year Message From The Bidens</p>
-</blockquote>
-<ul>
-<li><strong>renewal</strong>: a situation in which sth begins again after a pause or an interruption”如：a renewal of interest in traditional teaching methods.</li>
-<li>Amid the pain of this pandemic, the loss of lives and livelihoods, we’ve seen another tragedy: racism, harassment, hate crimes against Asian Americans and Pacific Islanders. 偶遇今天背的单词harsaament.</li>
-<li>That’s why I signed an executive order condemning racism and xenophobia against Asian Americans and Pacific Islanders, and directed federal government to advance racial equality in all that we do.  偶遇之前背过的condemn.</li>
-<li>The Year of the Ox reminds us our resilience and perseverance. resilience好词.</li>
-<li><strong>resilience</strong>: the ability of people or things to feel better quickly after sth unpleasant, such as shock, injury, etc.<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>念后即焚</li>
-</ul>
-]]></content>
+    <title>2021 02 13</title>
+    <url>/2021/02/13/2021-02-13/</url>
+    <content><![CDATA[<h1 id="放假"><a href="#放假" class="headerlink" title="放假"></a>放假</h1>]]></content>
       <tags>
         <tag>每日打卡</tag>
       </tags>
@@ -296,6 +276,26 @@
 <li>get the bottom of:刨根问底;</li>
 </ul>
 <h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1><p>念后即焚</p>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021 02 14</title>
+    <url>/2021/02/14/2021-02-14/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><p><strong>sovereignity</strong>: 国家主权/自治统治权|reign: hold royal office; rule as king or queen;<br><br><strong>glorious</strong>: very beautiful and impressive;<br><br><strong>sparingly</strong>: sparing - ly;<br><br><strong>ditch</strong>: 1.noun a narrow channel dug in the ground;2.verb informal get rid of or give up;3.verb bring (an aircraft) down on water in an emergency;<br><br><strong>greasy</strong>: grease - sy.<br><br><strong>liberate</strong>: free them from the political or military control;<br><br><strong>invariably</strong>: variable - invariable - ly;<br><br><strong>recite</strong>: 背诵;大声说出;<br><br><strong>manifestation</strong>: 表现/体现;<br><br><strong>forestry</strong>: forest - ry;<br><br><strong>oddity</strong>: 怪人/怪事;<br><br><strong>harassment</strong>: 骚扰/烦扰;<br><br><strong>fertilizer</strong>: 肥料/化肥;<br><br><strong>streamline</strong>: make more efficient.<br><br><strong>faint</strong>: 虚弱的;敷衍的;<br><br><strong>canal</strong>: 运河;<br><br><strong>tidy</strong>: 整洁的;有条理的;<br><br><strong>waive</strong>: 放弃(合法权利);免除;<br><br><strong>toxic</strong>: poisonous.<br><br><strong>metro</strong>: 地铁;<br><br><strong>slump</strong>: falls suddenly and by a large amount.<br><br><strong>foremost</strong>: 最重要的;最好的;<br><br><strong>paradoxical</strong>: 自相矛盾的;<br><br><strong>barge</strong>: 驳船;硬闯;<br><br><strong>buddhist</strong>: 佛教;<br><br><strong>fixation</strong>: 迷恋;<br><br><strong>suburban</strong>: 郊区的;平淡乏味的;<br><br><strong>plot</strong>: 阴谋;<br><br><strong>grocer</strong>: 杂货店;<br><br><strong>evacuate</strong>: 疏散;<br><br><strong>doll</strong>: 玩偶;<br><br><strong>tenant</strong>: 租客;<br><br><strong>sergeant</strong>: 中士;<br><br><strong>legislative</strong>: 立法的;<br><br><strong>dusty</strong>: 满是尘土的;<br><br><strong>hose</strong>: 水管;<br><br><strong>remedy</strong>: 解决办法;<br></p>
+<h2 id="外刊阅读"><a href="#外刊阅读" class="headerlink" title="外刊阅读"></a>外刊阅读</h2><p>花了一块钱买了流利说阅读一周体验 发现和金老师给我的完全不一样…<br></p>
+<blockquote>
+<p>A Lunar New Year Message From The Bidens</p>
+</blockquote>
+<ul>
+<li><strong>renewal</strong>: a situation in which sth begins again after a pause or an interruption”如：a renewal of interest in traditional teaching methods.</li>
+<li>Amid the pain of this pandemic, the loss of lives and livelihoods, we’ve seen another tragedy: racism, harassment, hate crimes against Asian Americans and Pacific Islanders. 偶遇今天背的单词harsaament.</li>
+<li>That’s why I signed an executive order condemning racism and xenophobia against Asian Americans and Pacific Islanders, and directed federal government to advance racial equality in all that we do.  偶遇之前背过的condemn.</li>
+<li>The Year of the Ox reminds us our resilience and perseverance. resilience好词.</li>
+<li><strong>resilience</strong>: the ability of people or things to feel better quickly after sth unpleasant, such as shock, injury, etc.<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>念后即焚</li>
+</ul>
 ]]></content>
       <tags>
         <tag>每日打卡</tag>
@@ -404,6 +404,14 @@
 ]]></content>
   </entry>
   <entry>
+    <title>2021 02 21</title>
+    <url>/2021/02/21/2021-02-21/</url>
+    <content><![CDATA[<h1 id="放假"><a href="#放假" class="headerlink" title="放假"></a>放假</h1>]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>2021 02 20</title>
     <url>/2021/02/20/2021-02-20/</url>
     <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
@@ -431,14 +439,6 @@
 </ul>
 <h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1><p>念后即焚</p>
 ]]></content>
-      <tags>
-        <tag>每日打卡</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2021 02 21</title>
-    <url>/2021/02/21/2021-02-21/</url>
-    <content><![CDATA[<h1 id="放假"><a href="#放假" class="headerlink" title="放假"></a>放假</h1>]]></content>
       <tags>
         <tag>每日打卡</tag>
       </tags>
@@ -608,6 +608,42 @@
       </tags>
   </entry>
   <entry>
+    <title>2021 02 28</title>
+    <url>/2021/02/28/2021-02-28/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
+<li>commendation 赞扬;</li>
+<li>evolutionary 进化的;演变的;</li>
+<li>lounge 等候室;休息室;</li>
+<li>perface 序言;</li>
+<li>migration 迁徙;</li>
+<li>mouldy 发霉的;破旧的;</li>
+<li>henceforth 从今以后;</li>
+<li>suburban 郊区的;城外的;</li>
+<li>contradiction 矛盾;对立;</li>
+<li>spinal 脊椎的;</li>
+<li>impair 损伤;损害;</li>
+<li>plead  恳求;请求;</li>
+<li>hound  猎犬;|骚扰;</li>
+<li>oblige 强迫/迫使;|帮…的忙;</li>
+<li>render 致使;造成;</li>
+<li>scrub 用力刷洗;<h2 id="白嫖流利说"><a href="#白嫖流利说" class="headerlink" title="白嫖流利说"></a>白嫖流利说</h2><blockquote>
+<p>Tokyo Olympics Playbook: Testing? Quarantines? Fans?</p>
+</blockquote>
+</li>
+<li>playbook 战术手册;</li>
+<li>quarantine 隔离;</li>
+<li>protocol 礼节;规定;</li>
+<li>contour 外形;轮廓;</li>
+<li>submit |be submit to 接受</li>
+<li>spectator 观看群众(类似于吃瓜群众) audience 观众(观看表演的)</li>
+<li>sparse 稀少的;<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>我很少在你面前提女朋友 因为已经…<br>（不会真的有人国庆元旦都不和女朋友见面吧以及有女朋友还能和其他女生深夜聊天吧）<br>无非是不愿意承认罢了 因为与大多数人无关也不想听到一些所谓的安慰<br>谢谢你的认可呀 最起码我的心动也收到了反馈<br>但是如果拥有的结局是彻底的失去 那可太难受了 我可不想再难过一次<br>所以冷静下来 还是在我该在的位置做好自己就好啦<br>开学加油！</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo博客多设备云同步管理</title>
     <url>/2021/02/06/backuptest/</url>
     <content><![CDATA[<h1 id="hexo博客多设备云同步管理"><a href="#hexo博客多设备云同步管理" class="headerlink" title="hexo博客多设备云同步管理"></a>hexo博客多设备云同步管理</h1><h2 id="为什么hexo本身没办法多设备同步"><a href="#为什么hexo本身没办法多设备同步" class="headerlink" title="为什么hexo本身没办法多设备同步"></a>为什么hexo本身没办法多设备同步</h2><p>首先，需要了解hexo是生成静态网页上传到github上面。<br><br>因此是没有源文件的，所以没办法直接git clone下来进行多设备同步。<br><br>（因为git clone下来的是hexo根据markdown生成的一些静态网页）<br></p>
@@ -653,11 +689,6 @@
       </tags>
   </entry>
   <entry>
-    <title>csapp</title>
-    <url>/2021/02/22/csapp/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>写在开始</title>
     <url>/2021/01/29/init/</url>
     <content><![CDATA[<h1 id="TAGS"><a href="#TAGS" class="headerlink" title="- TAGS"></a>- TAGS</h1><h2 id="每日打卡"><a href="#每日打卡" class="headerlink" title="每日打卡"></a>每日打卡</h2><ul>
@@ -678,39 +709,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>2021 02 28</title>
-    <url>/2021/02/28/2021-02-28/</url>
-    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
-<li>commendation 赞扬;</li>
-<li>evolutionary 进化的;演变的;</li>
-<li>lounge 等候室;休息室;</li>
-<li>perface 序言;</li>
-<li>migration 迁徙;</li>
-<li>mouldy 发霉的;破旧的;</li>
-<li>henceforth 从今以后;</li>
-<li>suburban 郊区的;城外的;</li>
-<li>contradiction 矛盾;对立;</li>
-<li>spinal 脊椎的;</li>
-<li>impair 损伤;损害;</li>
-<li>plead  恳求;请求;</li>
-<li>hound  猎犬;|骚扰;</li>
-<li>oblige 强迫/迫使;|帮…的忙;</li>
-<li>render 致使;造成;</li>
-<li>scrub 用力刷洗;<h2 id="白嫖流利说"><a href="#白嫖流利说" class="headerlink" title="白嫖流利说"></a>白嫖流利说</h2><blockquote>
-<p>Tokyo Olympics Playbook: Testing? Quarantines? Fans?</p>
-</blockquote>
-</li>
-<li>playbook 战术手册;</li>
-<li>quarantine 隔离;</li>
-<li>protocol 礼节;规定;</li>
-<li>contour 外形;轮廓;</li>
-<li>submit |be submit to 接受</li>
-<li>spectator 观看群众(类似于吃瓜群众) audience 观众(观看表演的)</li>
-<li>sparse 稀少的;<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>我很少在你面前提女朋友 因为已经…<br>（不会真的有人国庆元旦都不和女朋友见面吧以及有女朋友还能和其他女生深夜聊天吧）<br>无非是不愿意承认罢了 因为与大多数人无关也不想听到一些所谓的安慰<br>谢谢你的认可呀 最起码我的心动也收到了反馈<br>但是如果拥有的结局是彻底的失去 那可太难受了 我可不想再难过一次<br>所以冷静下来 还是在我该在的位置做好自己就好啦<br>开学加油！</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>每日打卡</tag>
-      </tags>
+    <title>csapp</title>
+    <url>/2021/02/22/csapp/</url>
+    <content><![CDATA[]]></content>
   </entry>
 </search>
