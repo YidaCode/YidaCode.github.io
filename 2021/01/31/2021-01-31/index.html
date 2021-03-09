@@ -148,29 +148,50 @@
                         
                     </div>
                     <div class="meta-info">
-                        <div class="article-meta-info">
-    <span class="article-date article-meta-item">
-        <i class="fas fa-edit"></i>&nbsp;2021-01-31 12:50:55
-    </span>
-    
-    
-        <span class="article-tags article-meta-item">
-            <i class="fas fa-tags"></i>&nbsp;
-            <ul>
-                
-                    <li>
-                        <a href="/tags/%E6%AF%8F%E6%97%A5%E6%89%93%E5%8D%A1/">每日打卡</a>&nbsp;
-                    </li>
-                
-            </ul>
-        </span>
-    
+                        .article-meta-info {
+  font-size: 0.8rem;
+  color: var(--third-text-color);
 
-    
-    
-    
-    
-</div>
+  .article-meta-item {
+    margin-right: 10px;
+
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+
+
+  .article-tags, .article-categories {
+    display: inline;
+
+    ul, li {
+      display: inline;
+    }
+
+    a {
+      color: var(--third-text-color);
+
+      &:hover {
+        color: var(--primary-color);
+      }
+    }
+  }
+
+
+  .article-wordcount, .article-tags {
+    +keep-mobile() {
+      display: none;
+    }
+  }
+
+  .article-min2read, .article-categories {
+
+    +keep-tablet() {
+      display: none;
+    }
+
+  }
+}
 
                     </div>
                 </div>
