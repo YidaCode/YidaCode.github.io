@@ -69,7 +69,7 @@ social_contact:
 menu:
   主页: /
   归档: /archives
-  标签: /tags
+  # 标签: /tags
   # Categories: /categories
   # Links: /links
   # About: /about
