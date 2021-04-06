@@ -1732,7 +1732,7 @@
     <title>2021 04 02</title>
     <url>/2021/04/02/2021-04-02/</url>
     <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
-<li>swipe v.挥起(棍棒等)击打;|v.steal it quickly;|v.criticize;(昨天刚背过 秒忘记)|wipe v.擦</li>
+<li>swipe v.挥起(棍棒等)击打;|v.steal it quickly;|v.criticize;(昨天刚背过 秒忘记)|wipe v.擦|sweep v. to clean a room, surface, etc. using a broom;</li>
 <li>stall v.拖延;|n.摊位;</li>
 <li>occasional adj.偶尔的;</li>
 <li>consul n.领事;</li>
@@ -1814,7 +1814,7 @@
 </li>
 <li>ESP32中集成了4个SPI驱动 SPI0和SPI1用于与外接的Flash进行连接 一般不用</li>
 <li>SPI2和SPI3 又被称为HSPI和VSPI 开放给用户</li>
-<li>支持多线程环境以及DMA传送和自动时分复用<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>抱着金老师太舒服了点QAQ</li>
+<li>支持多线程环境以及DMA传送和自动时分复用<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>念后即焚</li>
 </ul>
 ]]></content>
       <tags>
@@ -1825,6 +1825,54 @@
     <title>2021 04 04</title>
     <url>/2021/04/04/2021-04-04/</url>
     <content><![CDATA[<h1 id="出去玩"><a href="#出去玩" class="headerlink" title="出去玩"></a>出去玩</h1>]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021 04 06</title>
+    <url>/2021/04/06/2021-04-06/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
+<li>recipe n.烹饪配方;食谱;/n.原因;</li>
+<li>choir n.唱诗班;合唱队;合唱团;</li>
+<li>turkey n.火鸡;</li>
+<li>dwarf v.使相形见绌;|n/adj. 矮星;矮小的;</li>
+<li>marvellous adj.a wonderful and surprising person or thing;</li>
+<li>opaque adj.can not see through it;|adj.mean that it is difficult to understand.<h2 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h2><blockquote>
+<p>Mission to clean up space junk with magnets set for launch</p>
+</blockquote>
+</li>
+<li>Mission ()set for launch; </li>
+<li>launch v.启动(活动等);发射;发布(新产品等);</li>
+<li>invisible adj.隐形的;无形的;|vision n.视觉;|visible adj.可见的;</li>
+<li>debris n.垃圾;残骸;碎片;</li>
+<li>defunct adj.停止运转的;</li>
+<li>pose n.姿势;|v.to create a threat, problem, etc. that has to be dealt with;</li>
+<li>take…for granted 把…当作理所当然;</li>
+<li>docking adj.(两架航天器)对接的;|dock n.码头;船坞;</li>
+<li>latch onto 依附;黏附;</li>
+<li>commit v.致力于;投入;|comment n.评论;</li>
+<li>will separate and then perform a high-stakes game of cat and mouse over the next few months.||stake v.to risk money or sth important on the result of sth;<blockquote>
+<p>Educated Americans live longer</p>
+</blockquote>
+</li>
+<li>contemporary n.同龄人;同辈;|adj.当代的;</li>
+<li>drop out v.退学;退出;</li>
+<li>whereas conj.尽管;但是; | although;</li>
+<li>span n.一段时间;持续时间;</li>
+<li>strikingly adv.惹人注目地;惊人地;</li>
+<li>disparity n.不平等,差异;</li>
+<li>proceeding n.会议公报;诉讼;</li>
+<li>diverge v.出现差异;道路分叉;</li>
+<li>longevity n.长寿;</li>
+<li>couple with | in addition to sth. else</li>
+<li>reckon v.估计;估算;</li>
+<li>mortality n.致死率; | mortal adj.必有一死的;致死的;</li>
+<li>And whereas the average American’s expected span has been flat in recent years — and, strikingly, even fell between 2015 and 2017</li>
+<li>flat fell </li>
+<li>weak wake <h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1>屏幕驱动差不多了 不过真要做手表 还要研究一下LVGL<br>下一个驱动 心率<h1 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h1>没读书哈哈哈哈哈（调起东西来啥都不想干.jpg）<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>认认真真干活然后开开心心玩耍 满足</li>
+</ul>
+]]></content>
       <tags>
         <tag>每日打卡</tag>
       </tags>
