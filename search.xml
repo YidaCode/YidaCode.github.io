@@ -1870,7 +1870,99 @@
 <li>mortality n.致死率; | mortal adj.必有一死的;致死的;</li>
 <li>And whereas the average American’s expected span has been flat in recent years — and, strikingly, even fell between 2015 and 2017</li>
 <li>flat fell </li>
-<li>weak wake <h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1>屏幕驱动差不多了 不过真要做手表 还要研究一下LVGL<br>下一个驱动 心率<h1 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h1>没读书哈哈哈哈哈（调起东西来啥都不想干.jpg）<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>认认真真干活然后开开心心玩耍 满足</li>
+<li>weak wake <h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1>屏幕驱动差不多了 不过真要做手表 还要研究一下LVGL<br>下一个驱动 心率<h1 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h1>没读书哈哈哈哈哈（调起东西来啥都不想干.jpg）<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>念后即焚</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021 04 07</title>
+    <url>/2021/04/07/2021-04-07/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
+<li>audit v.审计;|audio adj.connected with sound that is recorded;</li>
+<li>contradict v.to say that sth that sb else has said is wrong, and that the opposite is true;</li>
+<li>bay n.海湾;</li>
+<li>loophole n.漏洞;空子;</li>
+<li>mansion n.a very large house;</li>
+<li>fraction n.a fraction of 一小部分;|n.分数;</li>
+<li>gravity n.重力;地心引力;</li>
+<li>haul v.(用力地)拉;拖;</li>
+<li>barn n.粮仓;谷仓;<h2 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h2><blockquote>
+<p>The link between personality and success</p>
+</blockquote>
+</li>
+<li>divide n.不同;分歧;|没有devide这个单词！</li>
+<li>introvert n.性格内向者;</li>
+<li>prosperous adj.富裕的;繁荣的;</li>
+<li>undermine v.(逐渐地)削弱;损害;</li>
+<li>stirring adj.激动人心的;</li>
+<li>not least 特别地;尤其是;</li>
+<li>and indeed the role (their own personality may play)-role (in the way (they manage)- way)</li>
+<li>the greasy’pole |idiom 涂油杆(到达专业之巅的艰难道路)；险峻的职业阶梯;</li>
+<li>stirring adj.causing strong feelings; exciting;<h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1><blockquote>
+<p>ESP32的I2C驱动框架(值得一记 | 怎么准备猪肉系列)</p>
+</blockquote>
+</li>
+<li>参数设置 设置i2c_config_t结构中的几个参数</li>
+<li>初始化配置(使用参数) i2c_param_config()</li>
+<li>安装驱动程序 i2c_driver_install()</li>
+<li>主机模式下的通信 | 驱动提供了一个名为“命令链接”的容器 -&gt;独特的地方</li>
+<li><strong>下面介绍如何为 “主机写入数据” 设置命令链接及其内部内容：</strong></li>
+<li>使用 i2c_cmd_link_create() 创建一个命令链接。</li>
+<li>然后，将一系列待发送给从机的数据填充命令链接：</li>
+<li>启动位 - i2c_master_start()</li>
+<li>从机地址 - i2c_master_write_byte()。提供单字节地址作为调用此函数的实参。</li>
+<li>数据 - 一个或多个字节的数据作为 i2c_master_write() 的实参。</li>
+<li>停止位 - i2c_master_stop()</li>
+<li>函数 i2c_master_write_byte() 和 i2c_master_write() 都有额外的实参，规定主机是否应确认其有无接受到 ACK 位。</li>
+<li>通过调用 i2c_master_cmd_begin() 来触发 I2C 控制器执行命令链接。一旦开始执行，就不能再修改命令链接。</li>
+<li>命令发送后，通过调用 i2c_cmd_link_delete() 释放命令链接使用的资源。<br>好复杂的感觉 尝试理解一下 就是在普通的传送机制上叠加一层容器 先定义我要做什么 再由一套机制去做这件事情<blockquote>
+<p>I2C调试笔记</p>
+</blockquote>
+</li>
+<li>MAX30102的连续读入和连续读出似乎都有点问题 害我找了好久的bug 但是似乎变强了一点点</li>
+<li>读出过程 start - write device_add - write reg_add - repeat start - read device_add</li>
+<li>之前龙芯也是这个问题 当时没做笔记 现在感觉下次调i2c会注意！<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>念后即焚（蹭蹭）</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021 04 08</title>
+    <url>/2021/04/08/2021-04-08/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
+<li>toast n.吐司;烤面包片;|v.烤;烘(面包)等;|roast v.to cook food, especially meat, without liquid in an oven or over a fire; to be cooked in this way;</li>
+<li>hasty adj.匆忙的;仓促的;</li>
+<li>haul v.(用力地)拉;拖;</li>
+<li>abide phrase.can not abide 难以忍受;</li>
+<li>correspondent n.记者;通讯员;</li>
+<li>flush v.face goes red;|v.冲洗;</li>
+<li>chilly adj.unpleasantly cold;</li>
+<li>invalid n.病人;病弱者;</li>
+<li>layoff n.(因工作岗位不足的)解雇;裁员;下岗;|n.休养;疗养;</li>
+<li>gorge n.峡谷;|gorge on something or gorge yourself on it -&gt;狼吞虎咽;</li>
+<li>flatter v.奉承;讨好;|flatter yourself 自以为是;</li>
+<li>fossil n.化石;</li>
+<li>renown n.名望;声望;<h2 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h2><blockquote>
+<p>Archaeologists uncover 3,000-year-old gold mask in southwest China | 三星堆</p>
+</blockquote>
+</li>
+<li>archaeologist n.考古学家;</li>
+<li>artifact n.文物;人工制品;</li>
+<li>ceremonial adj.仪式的;正式的;</li>
+<li>unearth v.发掘;发现;</li>
+<li>to shine (a/some/more/…) light on something | to provide new information that helps you understand something</li>
+<li>basin n.盆地;</li>
+<li>conquer v征服;克服;</li>
+<li>foil n.箔;</li>
+<li>yield v.生产;产出;</li>
+<li>vessel n.容器;船只;血管;</li>
+<li>cradle n.发源地;摇篮;</li>
+<li>tentative adj.初步的;暂定的;<h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1>收到小猫咪的鼓励 我今天必定好运伴身<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>昨天看了丁香医生的一篇关于怀孕期间女人承受的痛苦的推送<br>宝宝逐渐变大的时候所有器官被挤压的那张图 好感触<br>向所有的妈妈致敬 | 同时希望自己以后能做个好丈夫</li>
 </ul>
 ]]></content>
       <tags>
