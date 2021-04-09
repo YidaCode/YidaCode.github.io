@@ -685,11 +685,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>csapp</title>
-    <url>/2021/02/22/csapp/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>2021 03 01</title>
     <url>/2021/03/01/2021-03-01/</url>
     <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
@@ -1962,11 +1957,74 @@
 <li>yield v.生产;产出;</li>
 <li>vessel n.容器;船只;血管;</li>
 <li>cradle n.发源地;摇篮;</li>
-<li>tentative adj.初步的;暂定的;<h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1>收到小猫咪的鼓励 我今天必定好运伴身<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>昨天看了丁香医生的一篇关于怀孕期间女人承受的痛苦的推送<br>宝宝逐渐变大的时候所有器官被挤压的那张图 好感触<br>向所有的妈妈致敬 | 同时希望自己以后能做个好丈夫</li>
+<li>tentative adj.初步的;暂定的;<h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1>收到小猫咪的鼓励 我今天必定好运伴身<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>念后即焚</li>
 </ul>
 ]]></content>
       <tags>
         <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021 04 09</title>
+    <url>/2021/04/09/2021-04-09/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
+<li>worship v.敬奉;|v.崇拜;景仰;热爱;</li>
+<li>unilateral adj.一方的;单边的;|bilateral adj.双边的;</li>
+<li>flatter v.向…谄媚;奉承;|v.自以为是;</li>
+<li>breach v.违反;破坏;|beach n.海滩;</li>
+<li>adhere v.遵守;遵循;|v.支持;拥护;</li>
+<li>renown n.名望;</li>
+<li>coward n.胆小鬼;</li>
+<li>gorge n.峡谷;</li>
+<li>fossil n.化石;</li>
+<li>sinister adj.邪恶的;有害的;不详的;</li>
+<li>distort v.歪曲;曲解;</li>
+<li>restore v.恢复;修复;</li>
+<li>barren adj.贫瘠的;荒芜的;<h2 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h2><blockquote>
+<p>20 of the world’s best soups</p>
+</blockquote>
+</li>
+<li>steaming adj.冒蒸汽的;热气腾腾的;</li>
+<li>strike v.to hit sb / sth hard or with force|v.to give sb a particular impression;</li>
+<li>nomination n.提名;</li>
+<li>broth n.清汤;</li>
+<li>simmer v.炖;煨;</li>
+<li>aromatic adj.有香气的;</li>
+<li>distill v.蒸馏;</li>
+<li>synonymous adj.同义的 | antonymous 反义;</li>
+<li>finely adv.细小地;精致地;</li>
+<li>mill n.磨坊;</li>
+<li>tender adj.kind, gentle and loving;<h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1>明天准备重拾一下信号与系统 看一看FFT<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>果然跟小猫咪在一起做什么都会开心啊</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MAX30102调试笔记</title>
+    <url>/2021/04/08/MAX30102/</url>
+    <content><![CDATA[<h1 id="寄存器"><a href="#寄存器" class="headerlink" title="寄存器"></a>寄存器</h1><blockquote>
+<p>Mode Configuration 0X09 </p>
+</blockquote>
+<ul>
+<li>SHDN                  -&gt; 可以让芯片进入省电模式</li>
+<li>RESET                 -&gt; 重置所有配置</li>
+<li>MODE[3:0]             -&gt; 选择模式(HR SpO2 Multi-LED)<blockquote>
+<p>SpO2 Configuration 0x0A</p>
+</blockquote>
+</li>
+<li>SPO2_ADC_RGE[1:0]     -&gt; SPO2的ADC范围控制</li>
+<li>SPO2_SR[2:0]          -&gt; SPO2采样率控制</li>
+<li>LED_PW[1:0]           -&gt; LED脉冲长度|和ADC的分辨率成正比<blockquote>
+<p>LED Pulse Amplitude 0x0C/0x0D</p>
+</blockquote>
+</li>
+<li>LED1/2_PA             -&gt; LED/IR的光强</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>技术分享</tag>
       </tags>
   </entry>
 </search>

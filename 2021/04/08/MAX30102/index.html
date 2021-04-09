@@ -9,7 +9,7 @@
     
     <title>
         
-            csapp |
+            MAX30102调试笔记 |
         
         Yida&#39;s Blog
     </title>
@@ -119,7 +119,7 @@
     <div class="article-content-container">
 
         <div class="article-title">
-            <span class="title-hover-animation">csapp</span>
+            <span class="title-hover-animation">MAX30102调试笔记</span>
         </div>
 
         
@@ -137,9 +137,20 @@
                     <div class="meta-info">
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
-        <i class="fas fa-edit"></i>&nbsp;2021-02-22 23:49:49
+        <i class="fas fa-edit"></i>&nbsp;2021-04-08 10:55:41
     </span>
     
+    
+        <span class="article-tags article-meta-item">
+            <i class="fas fa-tags"></i>&nbsp;
+            <ul>
+                
+                    <li>
+                        <a href="/tags/%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB/">技术分享</a>&nbsp;
+                    </li>
+                
+            </ul>
+        </span>
     
 
     
@@ -154,7 +165,25 @@
         
 
         <div class="article-content markdown-body">
-            
+            <h1 id="寄存器"><a href="#寄存器" class="headerlink" title="寄存器"></a>寄存器</h1><blockquote>
+<p>Mode Configuration 0X09 </p>
+</blockquote>
+<ul>
+<li>SHDN                  -&gt; 可以让芯片进入省电模式</li>
+<li>RESET                 -&gt; 重置所有配置</li>
+<li>MODE[3:0]             -&gt; 选择模式(HR SpO2 Multi-LED)<blockquote>
+<p>SpO2 Configuration 0x0A</p>
+</blockquote>
+</li>
+<li>SPO2_ADC_RGE[1:0]     -&gt; SPO2的ADC范围控制</li>
+<li>SPO2_SR[2:0]          -&gt; SPO2采样率控制</li>
+<li>LED_PW[1:0]           -&gt; LED脉冲长度|和ADC的分辨率成正比<blockquote>
+<p>LED Pulse Amplitude 0x0C/0x0D</p>
+</blockquote>
+</li>
+<li>LED1/2_PA             -&gt; LED/IR的光强</li>
+</ul>
+
         </div>
 
         
@@ -165,13 +194,13 @@
                     <div class="article-prev">
                         <a class="prev"
                            rel="prev"
-                           href="/2021/02/23/2021-02-23/"
+                           href="/2021/04/09/2021-04-09/"
                         >
                             <span class="left arrow-icon flex-center">
                               <i class="fas fa-chevron-left"></i>
                             </span>
                             <span class="title flex-center">
-                                <span class="post-nav-title-item">2021 02 23</span>
+                                <span class="post-nav-title-item">2021 04 09</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -181,10 +210,10 @@
                     <div class="article-next">
                         <a class="next"
                            rel="next"
-                           href="/2021/02/22/2021-02-22/"
+                           href="/2021/04/08/2021-04-08/"
                         >
                             <span class="title flex-center">
-                                <span class="post-nav-title-item">2020 02 22</span>
+                                <span class="post-nav-title-item">2021 04 08</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex-center">
@@ -294,7 +323,7 @@
         <aside class="page-aside">
             <div class="post-toc-wrap">
     <div class="post-toc">
-        
+        <ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%AF%84%E5%AD%98%E5%99%A8"><span class="nav-number">1.</span> <span class="nav-text">寄存器</span></a></li></ol>
     </div>
 </div>
         </aside>
