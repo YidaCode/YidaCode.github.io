@@ -2135,4 +2135,124 @@
         <tag>每日打卡</tag>
       </tags>
   </entry>
+  <entry>
+    <title>2021 04 15</title>
+    <url>/2021/04/15/2021-04-15/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
+<li>reactionary n/adj.a person who is opposed to political or social change;</li>
+<li>opaque adj.not clear enough to see through or allow light through;</li>
+<li>dwarf adj.much smaller than the normal size;|v.to make sth seem small or unimportant compared with sth else;</li>
+<li>perceptive adj.having or showing the ability to see or understand things quickly, especially things that are not obvious;</li>
+<li>heave  v.to lift, pull or throw sb / sth very heavy with one great effort;|heaven n.天堂;</li>
+<li>hasty adj.said, made or done very quickly, especially when this has bad results;</li>
+<li>cocktail n.鸡尾酒;</li>
+<li>aptitude n.natural ability or skill at doing sth;|amplitude n.幅值;|attitude n.态度|altitude n.海拔高度;</li>
+<li>preoccupy v.think or worry about it very often or all the time;</li>
+<li>peasant  n.a farmer who owns or rents a small piece of land;|pleasant adj.enjoyable, pleasing or attractive;</li>
+<li>spin v.to turn round and round quickly; to make sth do this;|spine n.脊柱;脊椎;<h2 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h2><blockquote>
+<p>The most intimate portrait yet of a black hole</p>
+</blockquote>
+</li>
+<li>intimate adj.very detailed and thorough;</li>
+<li>quasar n.类星体;</li>
+<li>fountain n.源泉;喷泉;</li>
+<li>interstellar adj.星际的;|stellar adj.恒星的;</li>
+<li>polarize v.to separate or make people separate into two groups with completely opposite opinions;</li>
+<li>blade n.a single flat leaf of grass;</li>
+<li>the M87 black hole appears as a (finely whiskered vortex), like the (spinning fan blades of a jet engine).</li>
+<li>M87 黑洞看起来就像一个细须状的旋涡,如同喷气发动机中高速旋转的叶片。<h1 id="项目管理"><a href="#项目管理" class="headerlink" title="项目管理"></a>项目管理</h1></li>
+<li>活动        | 组成要素 也被称为任务</li>
+<li>活动属性    | 针对每个活动的各项信息，前导、后续、约束、相关假设等</li>
+<li>活动清单    | 活动的列表</li>
+<li>双代号网格图 | AOA  </li>
+<li>箭线图      | ADM</li>
+<li>逆推法      | 同样的方式确定最晚开始日期和最晚结束日期</li>
+<li>正推法      | 确定各项活动最早开始和完成时间的项目网络图技术</li>
+<li>基线日期    | 在跟踪甘特图中 进度日期</li>
+<li>缓冲        | 完成某项任务的额外时间</li>
+<li>分叉        | 一个节点后面跟着两个或更多活动的情形</li>
+<li>赶工        | 以最少的成本最大限度压缩工期 成本与进度之间权衡的技术</li>
+<li>关键链调度  | 一种进度计划方法 缓冲包括进来以保护项目完成期限</li>
+<li>关键路径    | 项目网络图中决定项目最早完成日期的一系列活动</li>
+<li>关键路径法  | 预测总项目工期的网络图技术 防止超期</li>
+<li>依赖        | 项目活动或任务的顺序 也称为关系</li>
+<li>自由依赖    | 有可能限制以后的进度计划编排工作</li>
+<li>外部依赖    | 设计项目与非项目活动</li>
+<li>强制依赖    | 内在的一种联系</li>
+<li>完成-完成依赖|从活动在到活动完成之前完成</li>
+<li>完成-开始依赖|从活动在到活动开始之后完成</li>
+<li>虚活动      | 不占用时间、不消耗资源的活动</li>
+<li>工期        | 在某一活动上花费的实际工作时间加占用时间</li>
+<li>人工量      | 完成某一任务所需的工作日或工时</li>
+<li>最早完成时间|最早开始时间|最晚完成时间|最晚开始时间|</li>
+<li>快速跟进    | 一种进度压缩计划 顺序进行并行进行</li>
+<li>汇入缓冲    | 前导是非关键路径任务 附加时间</li>
+<li>浮动时间    | 不延误后续活动可以推后的时间 时差</li>
+<li>自由时差    | 没有耽搁任何紧后活动最早开始时间的条件下</li>
+<li>甘特图      | 通过以日历的格式列出项目活动及相应开始与完成日期来展现项目进度细腻些的标准格式，又称为条形图</li>
+<li>合并        | 领先于单独一个节点</li>
+<li>里程碑      | 工期为零的重要时间 作为标志设定目标和进展</li>
+<li>多任务      | 同一资源参与一项以上活动时的状态</li>
+<li>网络图      | 针对项目活动之间的逻辑关系与次序进行的示意性显示</li>
+<li>节点        | 一个活动开始点与完成点</li>
+<li>帕金森定律  | 会拖延并沾满所有可用的时间</li>
+<li>PERT加权平均| 乐观时间 + 4 最可能时间 + 悲观时间 /6</li>
+<li>前导图法    | PDM</li>
+<li>概率时间估算| 在使用乐观、最可能的和悲观的活动工期估算的基础上所进行工期估算</li>
+<li>计划评审技术| 用于单个活动工期估算具有高度不确定的场合</li>
+<li>项目缓冲    | 完工日期前增加的额外时间</li>
+<li>项目时间管理| 按时完成所需的过程</li>
+<li>关系        | 排序相关 又称依赖</li>
+<li>资源分解结构 | 层次式结构 确定项目资源</li>
+<li>资源        | 人、设备、材料等</li>
+<li>进度基线    | 被批准的项目计划时间进度</li>
+<li>SMART准则   | 重要的指导方法，帮助定义明确的、可度量的、可分配的</li>
+<li>约束理论    | 一种管理原则，阐述任何时间点的复杂系统通常具有一个方面或者限制来约束达到更多目标的能力</li>
+<li>三点估算    | 包括乐观的、最可能的和悲观的估算</li>
+<li>总时差      | 总浮动时间</li>
+<li>跟踪甘特图  | 比较计划与实际项目进度计划信息的甘特图</li>
+<li>偏移的里程碑| 一个里程碑活动完成日期比计划晚<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>念后即焚 </li>
+</ul>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021 04 16</title>
+    <url>/2021/04/16/2021-04-16/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
+<li>emancipate v.to free sb, especially from legal, political or social restrictions;</li>
+<li>adopt v.to take sb else’s child into your family and become its legal parent(s)</li>
+<li>adopt v.to start to use a particular method or to show a particular attitude towards sb / sth;</li>
+<li>negligence n.the failure to give sb / sth enough care or attention;</li>
+<li>cocktail n.鸡尾酒;|sipping cocktails 品鸡尾酒;</li>
+<li>turmoil n.a state of great anxiety and confusion;</li>
+<li>delicate adj.easily damaged or broken；</li>
+<li>breach v.a failure to do sth that must be done by law;|beach n.海滩;</li>
+<li>hut n.a small, simply built house or shelter;</li>
+<li>nominee n.a person who has been formally suggested for a job, a prize;</li>
+<li>monopolize  v.to have or take control of the largest part of sth so that other people are prevented from sharing it;</li>
+<li>holiness n.the quality of being holy;</li>
+<li>casualty n.a person who is killed or injured in war or in an accident;<h2 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h2><blockquote>
+<p>Explainer: How Japan plans to release contaminated Fukushima water into the ocean</p>
+</blockquote>
+</li>
+<li>contaminate v.to make a substance or place dirty or no longer pure by adding a substance that is dangerous or carries disease;</li>
+<li>pollute 表示的污染程度更强且肉眼可见|contaminate 往往表示肉眼不可见的有害的污染</li>
+<li>tonne n.公吨(1000公斤);</li>
+<li>radioactive adj.具有放射性的;</li>
+<li>pump v.(用泵)抽吸;|puma n.美洲狮;</li>
+<li>knock out a blow that makes an opponent fall to the ground and be unable to get up, so that he or she loses the fight;</li>
+<li>tackle v.to make a determined effort to deal with a difficult problem or situation;</li>
+<li>halt v.to stop; to make sb / sth stop;</li>
+<li>ingest v.to take food, drugs, etc. into your body, usually by swallowing;<h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1>TFT屏幕刷新的太慢了<br>在这稍微记录计算一下大概的时间和频率</li>
+</ul>
+<p>0.0005s - 2KHZ  1bit<br>0.0040s - 8bit  1byte<br>0.0080s - 16bit 2byte<br>128*128个点 - 16384 * 0.0080 = 131 s<br>20KHZ - 13.1 200KHZ - 1.31s 1MHZ - 0.2s 10MHZ - 0.02s -50fps<br>实际测试 10MHZ很慢 需要重新看<br>脑所开会要找论文 人晕晕</p>
+<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1><p>又到了周末 真好！</p>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
 </search>
