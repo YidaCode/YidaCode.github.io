@@ -2290,7 +2290,86 @@
 <li>deterrent n. a thing that makes sb less likely to do sth (= that deters them) ;</li>
 <li>bush n.a plant that grows thickly with several hard stems coming up from the root;</li>
 <li>hay | make hay while the ‘sun shines - to make good use of opportunities, good conditions, etc. while they last<h2 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h2></li>
-<li>明天看<h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1>csapp学了一小节 主要是程序的过程调用 懂了栈的大概构成<br>信号 系统 变换 慢慢学吧~<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>想要锁住时间 锁住这份快乐</li>
+<li>明天看<h1 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h1>csapp学了一小节 主要是程序的过程调用 懂了栈的大概构成<br>信号 系统 变换 慢慢学吧~<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>念后即焚</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>每日打卡</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2021 04 19</title>
+    <url>/2021/04/19/2021-04-19/</url>
+    <content><![CDATA[<h1 id="英语"><a href="#英语" class="headerlink" title="英语"></a>英语</h1><h2 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h2><ul>
+<li>deny v.to say that sth is not true;</li>
+<li>chilly adj.too cold to be comfortable;</li>
+<li>benign adj.kind and gentle; not hurting anybody;</li>
+<li>abide | can’t abide - you hate having to be with or deal with them;</li>
+<li>vast adj.extremely large in area, size, amount, etc;</li>
+<li>barren adj.not good enough for plants to grow on it;</li>
+<li>duly adv.in the correct or expected manner;</li>
+<li>bush n.a plant that grows thickly with several hard stems coming up from the root;</li>
+<li>punctuality n.happening or doing sth at the arranged or correct time; not late;</li>
+<li>forfeit v.to lose sth or have sth taken away from you because you have done sth wrong;</li>
+<li>evasion n.the act of avoiding sb or of avoiding sth that you are supposed to do;</li>
+<li>strait n.a narrow passage of water that connects two seas or large areas of water;<h2 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h2><blockquote>
+<p>22 mummies are moved in a glittering display in Cairo</p>
+</blockquote>
+</li>
+<li>glittering adj.very impressive and successful；</li>
+<li>standstill n.a situation in which all activity or movement has stopped;</li>
+<li>atop prep.on top of; at the top of;</li>
+<li>custom-made adj.定制的;</li>
+<li>meticulously adj.paying careful attention to every detail;</li>
+<li>procession n.a line of people or vehicles that move along slowly, especially as part of a ceremony; the act of moving in this way;|synonym parade </li>
+<li>fanfare n.a short loud piece of music that is played to celebrate sb / sth important arriving;</li>
+<li>a host of 很多的;</li>
+<li>antiquity n.an object from ancient times;</li>
+<li>stretch v.make bigger / looser|v.to put your arms or legs out straight and contract your muscles;</li>
+<li>jarring v.to be different from sth in a strange or unpleasant way;<h1 id="干活"><a href="#干活" class="headerlink" title="干活"></a>干活</h1>继续查SPI的问题<blockquote>
+<p>0.00001s - 100KHZ</p>
+</blockquote>
+</li>
+</ul>
+<p>0.093912000 - 0.093931000<br>0.00001 * 8 - 8 bits - 1byte<br>每个点的像素 0xFF 0XFF 2byte<br>0.00001 * 8 * 2 * 128 * 128 = 2.62s<br>实际中每一次传完后还有0.000089s的延迟<br>一个周期是0.000249s(0.000089+0.00001*16)<br>0.000249s * 128 * 128 = 4.07s</p>
+<blockquote>
+<p>改为200KHZ</p>
+</blockquote>
+<p>传输延迟也变了 变为1半 45.5us</p>
+<blockquote>
+<p>改为500KHZ</p>
+</blockquote>
+<p>4.07 /5  = 0.815s<br>延迟 - 89/5 = 17.8us</p>
+<blockquote>
+<p>改为1MHZ</p>
+</blockquote>
+<p>4.07s/10 = 0.407s<br>延迟时间应该为 ： 89/10 = 8.9us <strong>但实测为18.5us</strong><br>1 * 10-6 * 8 * 2  + 0.0000185 = 34.5 us 实际测是35.5us<br>35.5 * 128 * 128 = 0.581s<br>拍的视频 4s 8帧 2fps大致符合情况</p>
+<blockquote>
+<p>改为10MHZ</p>
+</blockquote>
+<p>理论：4.07s/100 = 0.0407s<br>延迟时间应该为 ： 89/100 = 0.89us <strong>但实测为13.5us</strong><br>1 * 10-7 * 8 * 2 = 1.6us 看cs信号 1.75us 大致符合<br>1.75 + 13.5 =  15.25us<br>15.25 * 128 * 128 = 0.249s - 4fps<br>拍的视频 5s 18帧 大致符合情况</p>
+<blockquote>
+<p>所以为什么延迟时间这么长！</p>
+</blockquote>
+<p>解决了！一次多传一些数据！所以为什么会有DMA的传输 因为大批量可以分担延迟！</p>
+<blockquote>
+<p>指针的不断巩固</p>
+</blockquote>
+<ul>
+<li>int *p; p-地址; &amp;p-p的地址;</li>
+<li>定义一个指针变量的时候，通常都会给它地址，不给的话直接赋值会错误！</li>
+<li>但是怎么样才能直接赋值呢！动态内存分配！</li>
+<li>结构体指针同理！<blockquote>
+<p>PCB电容</p>
+</blockquote>
+</li>
+<li>通常放两个就够了 10uf + 0.1uf </li>
+<li>多放几个为了频带宽一点 因为高频状态下 电容会呈现电感的特性<h1 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h1>记录一下昨日和金老师讨论的”关于活得开心和奋斗”</li>
+<li>人呀 活个开心 </li>
+<li>和喜欢的人做喜欢的事 就会开心</li>
+<li>不是一直能开心 而且 可能会一直不能开心</li>
+<li>努力一点 变得强大一点 锁住开心</li>
+<li>通路成立<br>最后引某日的碎碎念：<br>“金老师对我真好呀 我能做什么呢？<br>那就努力一点 上进一点<br>朝着强者 再靠近一点”</li>
 </ul>
 ]]></content>
       <tags>
