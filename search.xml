@@ -71,7 +71,7 @@
   </entry>
   <entry>
     <title>每日记录|英语学习</title>
-    <url>/2021/04/25/1_English-Record/</url>
+    <url>/2021/04/27/1_English-Record/</url>
     <content><![CDATA[<h1 id="扇贝单词"><a href="#扇贝单词" class="headerlink" title="扇贝单词"></a>扇贝单词</h1><ul>
 <li>hereby adv.You use hereby when officially or formally saying what you are doing;</li>
 <li>stale adj.no longer fresh and therefore unpleasant to eat;</li>
@@ -84,7 +84,18 @@
 <li>malignant adj.(of a tumour or disease)that cannot be controlled and is likely to cause death;</li>
 <li>mineral n.矿物/矿物质;</li>
 <li>pilgrim n.a person who travels to a holy place for religious reasons;</li>
-<li>brink n.if you are on the brink of sth, you are almost in a very new, dangerous or exciting situation;<h1 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h1><blockquote>
+<li>brink n.if you are on the brink of sth, you are almost in a very new, dangerous or exciting situation;</li>
+<li>aptitude|attitude|altitude</li>
+<li>dew n.the very small drops of water that form on the ground, etc. during the night；</li>
+<li>hut n.a small, simply built house or shelter；</li>
+<li>aggressive adj.angry, and behaving in a threatening way; ready to attack;</li>
+<li>halt v.to stop; to make sb / sth stop;</li>
+<li>envisage v.to imagine what will happen in the future;</li>
+<li>peasant n.a farmer who owns or rents a small piece of land;</li>
+<li>cheek n.either side of the face below the eyes;</li>
+<li>grill n.the part of a cooker that directs heat downwards to cook food that is placed underneath it;</li>
+<li>grill v.to cook food under or over a very strong heat;</li>
+<li>dazzle v.to impress sb a lot with your beauty, skill, etc;|v.if a strong light dazzles you, it is so bright that you cannot see for a short time;<h1 id="流利说"><a href="#流利说" class="headerlink" title="流利说"></a>流利说</h1><blockquote>
 <p>Is “femtech” the next big thing in health care?</p>
 </blockquote>
 </li>
@@ -96,7 +107,37 @@
 <li>menstruation n.the process or time of menstruating;</li>
 <li>hollow adj.having a hole or empty space inside;</li>
 <li>Tapping into that spending power,….. |借助这种消费力,…..</li>
-<li>aftermath n.the situation that exists as a result of an important (and usually unpleasant) event, especially a war, an accident, etc;</li>
+<li>aftermath n.the situation that exists as a result of an important (and usually unpleasant) event, especially a war, an accident, etc;<blockquote>
+<p>India’s richest state swamped by pandemic’s second wave</p>
+</blockquote>
+</li>
+<li>swamp v.to make sb have more of sth than they can deal with;</li>
+<li>swamp n.an area of ground that is very wet or covered with water and in which plants, trees, etc. are growing;</li>
+<li>run short of v.缺乏…;</li>
+<li>caseload n.病例数;</li>
+<li>plea n.an urgent emotional request;</li>
+<li>plight n.a difficult and sad situation;</li>
+<li>Hospitals in Maharashtra are running short of ((beds), (piped oxygen) and (a key anti-viral drug))(as a second wave of coronavirus infections) has swamped India’s richest state, doctors and patients’ families said</li>
+<li>augurs poorly for the rest of the country.</li>
+<li>augur v.to be a sign that sth will be successful or not successful in the future;<blockquote>
+<p>“The Guardian” view on dark skies: we need them</p>
+</blockquote>
+</li>
+<li>distress n.a feeling of great worry or unhappiness; great suffering;</li>
+<li>distress v.to make sb feel very worried or unhappy;</li>
+<li>succumb v.to not be able to fight an attack, an illness, a temptation;</li>
+<li>deracinate v.to force sb to leave the place or situation in which they feel comfortable;</li>
+<li>inextricably adv.if two things are inextricably linked, etc., it is impossible to separate them;</li>
+<li>cosmology n.the scientific study of the universe and its origin and development;</li>
+<li>divination n.the act of finding out and saying what will happen in the future;</li>
+<li>prodigious adj.very large or powerful and causing surprise or admiration;</li>
+<li>constellation n.a group of stars that forms a shape in the sky and has a name;</li>
+<li>instinct n.a natural tendency for people and animals to behave in a particular way using the knowledge and abilities that they were born with rather than thought or training;</li>
+<li>humdrum adj.boring and always the same;|dull|boring</li>
+<li>Disoriented by light, birds die as they migrate over cities:a distressing 100,000 a year (succumb over) New York City, confused by the illumination of the skyscrapers.</li>
+<li>vivid and intense relationship | 灵动而紧密的联系</li>
+<li>After she was raped by the god Zeus she was, in an early example of victim-blaming | 指责受害者的早期案例</li>
+<li></li>
 </ul>
 ]]></content>
       <tags>
@@ -114,6 +155,22 @@
 <h1 id="Ref"><a href="#Ref" class="headerlink" title="Ref"></a>Ref</h1><ul>
 <li>《信号、系统与变换》（原书第五版） 陈从颜翻译</li>
 <li>《傅立叶变换如何理解？美颜和变声都是什么原理？李永乐老师告诉你》</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>技术笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>芯片杂记|记录一些拆过的芯片</title>
+    <url>/2021/04/27/3_0_ChipRecorder/</url>
+    <content><![CDATA[<h1 id="4G-LTE模块"><a href="#4G-LTE模块" class="headerlink" title="4G LTE模块"></a>4G LTE模块</h1><ul>
+<li><strong>Qualcomm PM8028</strong> | 电源管理芯片</li>
+<li><strong>MT3420</strong> | DC-DC转换器 </li>
+<li>背面还走了根<strong>板载天线</strong> 熟悉的禁止铺铜</li>
+<li><strong>hynix H9LA1GG25LVM</strong> | 存储芯片</li>
+<li><strong>Qualcomm MDM9610</strong> | 4G LTE调制器</li>
+<li><strong>Qualcomm RTR8600</strong> | 中频射频芯片</li>
 </ul>
 ]]></content>
       <tags>
